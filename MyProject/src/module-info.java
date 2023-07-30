@@ -1,5 +1,5 @@
 import com.cg.dayfive.encapsulation.Encapsule;
-
+package com.cg.dayfive.encapsulation;
 module MyProject {
 	public class MainClass  {
 
